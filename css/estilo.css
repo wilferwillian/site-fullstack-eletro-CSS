@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0
+}
+body{
+  font-family: Arial, Helvetica, sans-serif; 
+  background-color:white;
+  color: #666;;
+
+}
+#formas_pagamento{ 
+  text-align: center;
+  color:red; font-size: 20px;
+} 
+.menu{
+  background-color:red;
+  padding: 15px;
+}
+.menu a{
+  color: white;
+  text-decoration: underline ;
+  text-align: left;
+  padding: 20px,10px;
+  margin-right: 197px;
+}
+.inicio
+{
+  padding: 25px;
+  text-align: center;
+  font-weight: bolder;
+  font-style: italic;
+}
+.saudação
+{
+  padding: 25px;
+  text-align: center;
+  font-weight: bolder;
+  font-style: italic;
+  font-size: 20px;
+  background-color: rgba(227, 231, 16, 0.822);
+}
+.preço{ 
+  color:black;
+}
+#rodapé{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: bolder;
+  margin: 20px;
+}
+.categorias{ 
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: underline; 
+  text-decoration-color: red; 
+  display: inline-block;
+  width: 20%;
+  height: 1000px;
+  vertical-align: bottom;
+  padding: 100px 0px 0px 30px;
+  margin: 0px -30px 0px 0px; 
+ 
+}
+.produtos{
+  height: 1000px;
+  width: 79%;
+  display: inline-block;
+  margin-top: 2px;
+  
+}
+.produto {
+  display: inline-block;
+  text-align: justify;
+  width: 20%;
+  margin: 12px 0px 0px 32px;
+  font-weight: bolder;
+ 
+ 
+}
+
+.endereço{
+  
+  display: inline-block;
+  
+}
+                        
+.end {
+  display: inline-block;
+  margin: 50px;
+  font-size: 25px;
+  padding: 20px ;
+ 
+} 
+.lojas{
+  
+  padding: 25px;
+  text-align: center;
+  font-weight: bolder;
+  font-style: italic;
+ 
+} 
+.contatos
+{
+  padding: 25px;
+  text-align: center;
+  font-weight: bolder;
+  font-style: italic;
+}
+.ctt
+{
+  display: inline-block;
+  margin: 25px 50px 0px 50px;
+}     
+
+.fale
+ {
+  display: inline-block;
+  margin: 10px 50px 0px 50px;
+  font-size: 25px;
+  padding: 50px ;
+ }
+
+.formulario
+{
+  display: inline-block;
+  margin: 50px 100px 0px 50px;
+  font-size: 25px;
+  padding: 20px 0px 0px 100px ;
+  border-color: rgb(8, 8, 8);
+}
